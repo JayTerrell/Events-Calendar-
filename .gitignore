@@ -8,3 +8,6 @@ data/*.csv
 data/geocache.json
 data/overrides.json
 public/data/
+
+# Local screenshots (they show real data)
+screenshots/
