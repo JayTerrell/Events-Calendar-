@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# Your personal database stays out of git (this repo is public).
+data/*.csv
+data/geocache.json
+data/overrides.json
+public/data/
